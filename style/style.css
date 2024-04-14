@@ -199,11 +199,18 @@ span {
   font-size: 1.6rem;
   margin: 2rem 0 3rem;
 }
+.about-content li {
+  font-size: 1.6rem;
+  margin: 1rem 0 1.5rem;
+}
 
 .contact h2 {
   margin-bottom: 3rem;
 }
+.contact p {
+  font-size: 1.6rem;
 
+}
 .contact form {
   max-width: 70rem;
   margin: 1rem auto;
